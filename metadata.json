@@ -1,0 +1,5 @@
+{
+  "name": "Sinnoh Pokédex",
+  "description": "A visually appealing Pokédex for the Sinnoh region, featuring AI-generated descriptions for each Pokémon using the Gemini API.",
+  "requestFramePermissions": []
+}
