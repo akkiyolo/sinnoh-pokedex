@@ -1,20 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1yFlwSKHc77x2vWYRwdw4qtR16D3OtfWb
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+<img width="1400" height="700" alt="image" src="https://github.com/user-attachments/assets/5f7dced3-17d4-48e0-b08a-3a3bf7cdee0c" /><div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/07/ash-pok-mon-sinnoh-team-full.jpg" />
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+DEPLOYED HERE : https://sinnoh-pokedex-psi.vercel.app/
+
